@@ -1,0 +1,14 @@
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.csproj.AssemblyReference.cache
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.Form1.resources
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.Form3.resources
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.Properties.Resources.resources
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.csproj.GenerateResource.cache
+C:\Users\Yasmin\source\repos\PetCare\PetCare\bin\Debug\PetCare.exe.config
+C:\Users\Yasmin\source\repos\PetCare\PetCare\bin\Debug\PetCare.exe
+C:\Users\Yasmin\source\repos\PetCare\PetCare\bin\Debug\PetCare.pdb
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.Form2.resources
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.exe
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.pdb
+C:\Users\Yasmin\source\repos\PetCare\PetCare\obj\Debug\PetCare.Form4.resources

@@ -20,14 +20,25 @@ namespace PetCare
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             float peso = float.Parse(textBox1.Text);
             int idade = int.Parse(textBox2.Text);
 
-            Form3 form3 = new Form3();
+            if (peso != 0 && idade != 0){
 
-            form3.Receber(peso, idade);
+                Form3 form3 = new Form3();
+                form3.Receber(peso, idade);
+                form3.Show();
+            }
+            else
+            {
+                MessageBox.Show("ERRO");
+            }
+        }
 
-            form3.Show();
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
